@@ -1,0 +1,3 @@
+scrapy crawl ranks
+
+Just to have this command here and copy and pasting it whenever needed on the anaconda3 Prompt
