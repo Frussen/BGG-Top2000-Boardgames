@@ -59,7 +59,7 @@ class playerCountVotes(scrapy.Item):
     best = scrapy.Field()
     recommended = scrapy.Field()
     notrecommended = scrapy.Field()
-    result =  scrapy.Field()
+    result = scrapy.Field()
     withpercentage = scrapy.Field()
 
     pass
